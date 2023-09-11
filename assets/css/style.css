@@ -775,7 +775,7 @@ section {
 }
 
 .about .row .col-6 img {
-  /* width: 80%; */
+  width: 100%;
 }
 
 .about:before {
